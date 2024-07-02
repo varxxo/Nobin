@@ -1,0 +1,152 @@
+[
+    {
+      "name": "veg Biriyani",
+      "id": "101",
+      "image": "https://cookingfromheart.com/wp-content/uploads/2017/09/Veg-Biryani-in-Pressure-Cooker-6.jpg",
+      "description": "A flavorful symphony of basmati rice, tender veggies, and aromatic spices"
+    },
+    {
+      "name": "veg fried rice",
+      "id": "102",
+      "image": "https://static1.s123-cdn-static-a.com/uploads/7084115/800_63f70461a2f28.jpg",
+      "description": "A flavorful fusion of fluffy rice, vibrant veggies, and tender meats, stir-fried to perfection!"
+    },
+    {
+      "name": "veg noodles",
+      "id": "103",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/09/veg-noodles-recipe.jpg",
+      "description": "Enjoy a delightful medley of crisp vegetables and perfectly cooked noodles, tossed in savory sauces for a mouthwatering experience in every bite!"
+    },
+    {
+      "name": "veg soup",
+      "id": "104",
+      "image": "https://www.thereciperebel.com/wp-content/uploads/2017/03/Slow-Cooker-Creamy-Vegetable-Soup-www.thereciperebel.com-5-of-9.jpg",
+      "description": "Savor the hearty blend of fresh vegetables and fragrant herbs simmered to perfection, delivering warmth and nourishment in every spoonful."
+    },
+    {
+        "name": "ghee rice",
+        "id": "105",
+        "image": "https://www.cookclickndevour.com/wp-content/uploads/2017/12/Ghee-rice-recipe-1.jpg",
+        "description": "Indulge in the aromatic, buttery goodness of basmati rice cooked to perfection with rich ghee and subtle spices, offering a simple yet luxurious taste experience."
+    },
+    {
+      "name": "roti",
+      "id": "106",
+      "image": "https://i.ytimg.com/vi/0R4gsEH_Ztw/maxresdefault.jpg",
+      "description": "Enjoy the rustic charm of soft, freshly baked flatbread, perfect for soaking up flavors and complementing every meal with its light, tender texture."
+    },
+    {
+      "name": "butter naan",
+      "id": "107",
+      "image": "https://www.pachakam.com/wp-content/uploads/2009/05/new-butter-naan.jpg",
+      "description": "Sink into the pillowy softness of freshly baked naan, brushed with rich, melted butter for an indulgent, melt-in-your-mouth experience."
+    },
+    {
+      "name": "panner butter masala",
+      "id": "108",
+      "image": "https://myfoodstory.com/wp-content/uploads/2021/10/Paneer-Butter-Masala-1-2.jpg",
+      "description": "Savor the velvety goodness of paneer cubes in a luscious, buttery tomato sauce, infused with aromatic spices that create a perfect balance of flavors in every bite."
+    },
+    {
+      "name": "cashew peas masala",
+      "id": "109",
+      "image": "https://3.bp.blogspot.com/-1jWVvb90LHQ/W-8MkNw6ouI/AAAAAAAAYCU/QUi5oNs8pB8DQpc2TDf6W5pgM2KrjPW8gCLcBGAs/s1600/DSC_0112.JPG",
+      "description": "Delight in the velvety blend of tender peas and rich cashews, simmered in a flavorful masala sauce that promises a luxurious and satisfying dining experience."
+    },
+    {
+      "name": "mushroom pepper fry",
+      "id": "110",
+      "image": "https://greenbowl2soul.com/wp-content/uploads/2018/11/mushroom-pepper-fry.jpg",
+      "description": "Savor the robust flavors of sautéed mushrooms, tossed with aromatic spices and a generous dash of black pepper, creating a tantalizing dish that packs a punch."
+    },
+    {
+      "name": "gobi manchurian",
+      "id": "111",
+      "image": "https://2.bp.blogspot.com/-XcHX0s2FC0E/U9mqNATImfI/AAAAAAAAF2U/wUvyLROY_6U/s1600/pici3.jpg",
+      "description": "Crispy cauliflower florets coated in a spicy, tangy sauce for a delightful fusion of flavors."
+    },
+    {
+      "name": "chole puri",
+      "id": "112",
+      "image": "https://www.shutterstock.com/image-photo/chole-puri-chana-masala-indian-260nw-1397870162.jpg",
+      "description": "Hot crispy puri served with Savor the velvety goodness of channa cubes in a luscious, tomato sauce, infused with aromatic spices that create a perfect balance of flavors in every bite"
+    },
+    {
+      "name": "Idly sambar",
+      "id": "113",
+      "image": "https://i.pinimg.com/originals/40/76/15/407615a4f0187393ffed08d663c5fd62.jpg",
+      "description": "Discover the perfect harmony of soft, airy idlis and soul-warming sambar a South Indian delight that promises comfort with every bite!"
+    },
+    {
+      "name": "masala dosa",
+      "id": "114",
+      "image": "https://www.newsmagnify.com/wp-content/uploads/2022/01/masala-dosa-recipe.jpg",
+      "description": "A crispy crepe with spicy potato masala, served with sambar and coconut chutney. This South Indian delight blends textures and flavors perfectly."
+    },
+    {
+      "name": "pongal",
+      "id": "115",
+      "image": "https://as2.ftcdn.net/v2/jpg/01/42/70/69/1000_F_142706941_i0iqIShABkhzwFrA9PsEL0CRUSgcYIa6.jpg",
+      "description": "A creamy blend of rice and lentils, flavored with ghee, black pepper, and cumin. This aromatic South Indian dish is perfect for any meal."
+    },
+    {
+      "name": "veg pulao",
+      "id": "116",
+      "image": "https://www.tomatoblues.com/wp-content/uploads/2021/06/Instant-pot-veg-pulao-1-scaled.jpg",
+      "description": "A fragrant rice dish cooked with mixed vegetables, aromatic spices, and herbs. This delightful meal offers a burst of flavors and vibrant colors in every bite."
+    },
+    {
+      "name": "pani puri",
+      "id": "117",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/Pani-Puri-500x377.jpg",
+      "description": "Crisp, hollow spheres filled with spicy, tangy water, potatoes, and chickpeas. This street food favorite bursts with flavors in every bite."
+    },
+    {
+      "name": "dahi puri",
+      "id": "118",
+      "image": "https://recipes.timesofindia.com/thumb/55049443.cms?imgsize=589796&width=800&height=800",
+      "description": "Crisp puris topped with tangy yogurt, spiced potatoes, and chutneys."
+    },
+    {
+      "name": "pav bhaji",
+      "id": "119",
+      "image": "https://static.vecteezy.com/system/resources/previews/016/282/565/large_2x/cheese-pav-bhaji-recipe-is-a-street-food-bhaji-pav-recipe-with-addition-of-cheese-free-photo.jpg",
+      "description": "Spiced mashed vegetables served with buttery bread rolls. This Mumbai classic delivers hearty, flavorful comfort in every bite."
+    },
+    {
+      "name": "chocolate milkshake",
+      "id": "120",
+      "image": "https://www.themanual.com/wp-content/uploads/sites/9/2021/05/how-to-make-the-perfect-milkshake.jpg?p=1",
+      "description": "A rich, creamy blend of smooth chocolate and cold milk, topped with whipped cream. This indulgent treat is pure bliss in every sip."
+    },
+    {
+      "name": "vanilla milkshake",
+      "id": "121",
+      "image": "https://cdn.mos.cms.futurecdn.net/y4pdPZQoQinF8cXbL7afvk.jpg",
+      "description": "A creamy mix of vanilla ice cream and milk, topped with whipped cream. A classic treat that's pure indulgence in every sip."
+    },
+    {
+      "name": "black currant ice cream",
+      "id": "122",
+      "image": "https://5.imimg.com/data5/AU/CD/YR/SELLER-26783608/black-currant-iceceam-500x500.jpg",
+      "description": "A tangy, creamy delight bursting with vibrant blackcurrant flavor. This refreshing treat is a perfect blend of sweet and tart."
+    },
+    {
+      "name": "strawberry ice cream",
+      "id": "123",
+      "image": "https://i0.wp.com/www.queenofmykitchen.com/wp-content/uploads/2016/06/New-51.jpg?ssl=1",
+      "description": "A creamy, fruity delight packed with sweet, ripe strawberries. This refreshing treat offers a burst of summer in every bite."
+    },
+    {
+      "name": "belgian chocolate ice cream",
+      "id": "124",
+      "image": "https://thumbs.dreamstime.com/b/spiced-belgian-chocolate-ice-cream-recipe-creamy-indulgent-refreshing-best-results-come-using-good-quality-155390947.jpg",
+      "description": "Creamy and rich, made with velvety Belgian chocolate. A decadent treat in every bite."
+    },
+    {
+      "name": "butter scotch ice cream",
+      "id": "125",
+      "image": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2021/12/Butterscotch-ice-cream-hero-7-1024x768.jpg",
+      "description": "Smooth and creamy with a rich, caramelized butterscotch flavor. This indulgent treat offers a perfect blend of sweet and buttery goodness."
+    }
+  ]
