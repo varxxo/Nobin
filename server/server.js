@@ -19,6 +19,7 @@ app.get('/dishes1', async (req, res) => {
     res.setHeader('Content-Type', 'application/json');
     try {
         const data = await db.getFromDB(); 
+        res.send(data)
     } catch (err) {
         res.status(500).send({ error: 'Failed to fetch data from the database' });
     }
