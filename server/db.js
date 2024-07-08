@@ -1,8 +1,8 @@
 
 const { Client } = require('pg');
 const connectionString = 'postgres://default:TH0iExPDJC8n@ep-long-snow-a4nm6blz.us-east-1.aws.neon.tech:5432/nobin?sslmode=require';
-fetchData();
-exports.getFromDB = async function fetchData() {
+
+exports.getFromDB = async function() {
  
     const client = new Client({
         connectionString
