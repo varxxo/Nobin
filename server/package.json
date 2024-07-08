@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "fetch": "^1.1.0",
+    "node": "^22.4.0",
     "pg": "^8.12.0"
   }
 }

@@ -4,6 +4,13 @@ const app = express();
 const port = 3000;
 const db = require('./db'); 
 
+let corsOptions = { 
+  origin : ['http://localhost:3000'], 
+} 
+ 
+app.use(cors(corsOptions)) 
+ 
+
 app.get('/', (req, res) => {
     res.send('Nobin Server');
 });
@@ -24,6 +31,7 @@ app.get('/dishes1', async (req, res) => {
         res.status(500).send({ error: 'Failed to fetch data from the database' });
     }
 });
+
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
