@@ -1,0 +1,151 @@
+body {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 14px;
+  color: white;
+  position: relative;
+}
+
+.header {
+  height: 40px;
+  background-color: #711B1B;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 150px;
+}
+
+.header .email {
+  margin-right: 10px;
+}
+
+.socials {
+  display: flex;
+  gap: 5px;
+}
+
+.socials .icon-container {
+  background-color: rgba(199, 87, 121, 0.479);
+  padding: 5px;
+  border-radius: 12px;
+}
+
+
+
+.navbar {
+  background-color: rgb(223, 199, 203);
+  align-items: center;
+  gap:950px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: rgb(223, 199, 203);
+}
+
+.navbar {
+  /* right: 250px; */
+  display: flex;
+  align-items: center;
+  gap: 150px;
+  padding-left: 50px;
+  padding-top: 30px;
+}
+
+.navbar .menu {
+  display: flex;
+  gap: 10px;
+}
+
+.navbar a {
+  color: black;
+  text-decoration: none;
+  padding: 5px 15px;
+  height: 2rem;
+}
+
+.navbar .title {
+  color: black;
+  font-size: 25px;
+  font-family:"Yatra One", system-ui ;
+}
+
+.navbar .menu a.selected {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
+
+.navbar .menu a:hover {
+  background-color: #ccc;
+  color: black;
+  border-radius: 15px;
+}
+
+.navbar .login {
+  border-radius: 30px;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+  padding: 10px 20px;
+}
+
+.cards {
+  background-color: rgb(223, 199, 203);
+  height: 800px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-items: center;
+}
+
+.cards .title p {
+  font-family:"Yatra One", system-ui ;
+  font-size: 2rem;
+  color: black;
+  justify-content: left;
+  display: flex;
+}
+
+.cards .title .slogan {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 2rem;
+  color: black;
+
+}
+
+.cards .title i {
+  font-size: 2.5rem;
+  transform: scale(0.7, 1);
+
+}
+
+.cards .card {
+  height: 380px;
+  width: 300px;
+  background-color: white;
+  margin: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column; 
+  gap:10px;
+  position: relative;
+  
+}
+
+ .cards .card p  {
+  color:  #711B1B;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 15px;
+  font-style: bold;
+  display: flex;
+  flex-direction: column; 
+  
+}
+
+.card img {
+  height: 232px;
+  width: 255px;
+  border-radius: 20px;
+  margin-right:10px;
+}
