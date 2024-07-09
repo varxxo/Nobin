@@ -30,8 +30,6 @@ body {
   border-radius: 12px;
 }
 
-
-
 .navbar {
   background-color: rgb(223, 199, 203);
   align-items: center;
@@ -91,7 +89,7 @@ body {
 
 .cards {
   background-color: rgb(223, 199, 203);
-  height: 800px;
+  height: 3800px;
   display: grid;
   grid-template-columns: auto auto auto auto;
   justify-items: center;
@@ -119,7 +117,7 @@ body {
 }
 
 .cards .card {
-  height: 380px;
+  height: 480px;
   width: 300px;
   background-color: white;
   margin: 10px;
@@ -140,6 +138,7 @@ body {
   font-style: bold;
   display: flex;
   flex-direction: column; 
+  margin: 5px;
   
 }
 

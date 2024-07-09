@@ -1,5 +1,5 @@
-
 const express = require('express');
+const cors = require('cors')
 const app = express();
 const port = 3000;
 const db = require('./db'); 
@@ -8,7 +8,7 @@ let corsOptions = {
   origin : ['http://localhost:3000'], 
 } 
  
-app.use(cors(corsOptions)) 
+app.use(cors()) 
  
 
 app.get('/', (req, res) => {
