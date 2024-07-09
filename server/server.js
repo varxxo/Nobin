@@ -8,13 +8,16 @@ const db = require('./db');
 let corsOptions = { 
   origin : ['http://localhost:3000'], 
 } 
- 
-app.use(cors()) 
- 
 
-app.get('/', (req, res) => {
-    res.send('Nobin Server');
-});
+console.log('dir name ', __dirname)
+app.use(cors()) 
+
+const path = require('path')
+app.use(express.static(path.join(__dirname, '../ui/v2')))
+
+//app.get('/', (req, res) => {
+//    res.send('Nobin Server');
+//});
 
 app.get('/dishes', (req, res) => {
     res.setHeader('Content-Type', 'application/json');
