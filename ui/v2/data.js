@@ -1,16 +1,12 @@
 async function getData() {
   console.log("get data")
   const url = "http://localhost:3000/dishes1";
-
-  try {
-    let response = await fetch(url);
-    if (!response.ok) {
-      throw new Error("Network response was not ok");
-    }
+  let response = await fetch(url);
+ 
     let dishes = await response.json();
 
     let container = document.querySelector('.cards');
-    container.innerHTML = ''; // Clear any existing content
+    container.innerHTML = ''; 
 
     for (let dish of dishes) {
       let div = document.createElement('div');
@@ -22,9 +18,7 @@ async function getData() {
       `;
       container.append(div);
     }
-  } catch (error) {
-    console.error("Failed to fetch data:", error);
   }
-}
+  
 
 document.addEventListener('DOMContentLoaded', getData, false);
